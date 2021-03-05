@@ -26,7 +26,7 @@ This project has a file in resources folder named customerTransactions.json
 
 # Test Results
 
-* link with test results will also be provided.
+* link with test results: https://github.com/venudev-567/results-rewards-calc 
 
 ### Test Input
 [
